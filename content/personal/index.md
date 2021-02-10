@@ -1,24 +1,53 @@
-## Not work
+## The personal page. Also known as: The mindless meandering musings of a madman.
 
-Contrary to popular belief, I actually have other things I do outside of writing questionable code and school! Here are some things that I'm up to nowadays:
+Some things I am interested in and want to talk about. Would be cool if you read them :)
+
 ### Reading
-There's nothing like cozying up with a cup of hot barley tea on a rainy day with a great book. I've recently rediscovered the joy of reading thanks to someone very close to me.
+Since I was very young child, some of my best memories have involved books. Whether it be cuddling up next to a sunny window in my childhood bedroom, or walking to Finch Public Library with my parents to sign out books for summer reading, I can owe a great deal of my formative years to the captivating enthrall of novels and novella. While life has changed my priorities for the time-being, I will never not have a book I'm currently reading. 
 
 Currently Reading
-* **Kafka on the Shore** by Haruki Murakami
+* **The Phoenix Project** by Gene Kim
 
 Some of my past favourites
-* **21 Lessons for the 21st Century** by Yuval Noah Harari
-* **A Beautifully Foolish Endeavor** by Hank Green
-* **The Uninhabitable Earth** by David Wallace-Wells
+* **The Goal** by Eliyahu Goldratt
+* **Neuromancer** by William Gibson
+* **The 4-hour work week** by Tim Ferriss
 
-[Full Booklist](/books). I'm always happy to add to my ever-growing list of books to read or to chat about any cool reads you've come across!
+See my [Full Booklist](/books) for further details, reviews, and recommendations.
 
-### Writing
-Recently, I've made a conscious effort to start writing more in order to help myself organize my thoughts. You can find a collection of my half-baked thoughts over on [my blog](https://blog.jzhao.xyz/) where I plan to write more about some of my thoughts on tech, personal projects, and general musings about the world.
+### Music
+Truly, music is the universal language of mankind. There is no substitute for a good album or playlist in those times where you just want to *feel*. Feel good or feel bad, feel happy or feel sad, music is the fastest way to get there.
 
-### Music + Podcasts
-According to my [Spotify](https://open.spotify.com/user/notecho?si=9bKqHkhLQFenGqlXza2F2Q) wrapped, I spent 109,535 minutes listening to music and podcasts in the past year. Some of my favourite artists include Jeremy Zucker, Rex Orange County, HONNE, Daniel Caesar just to name a few. Ocassionaly, I'll bust out a musical or a movie soundtrack from the likes of Dear Evan Hansen or La La Land. During long transits I can always count on [The Radical AI Podcast](https://www.radicalai.org/), [Philosiphize This!](https://www.philosophizethis.org/), and the [Lex Fridman Podcast](https://lexfridman.com/podcast/) to open the door to something new to learn about.
+Current Rotation
+* **Since I Left You** by The Avalanches
+* **Metaphorical Music** by Nujabes (RIP)
+* **Poptical** by Ed Motta
 
-### Arts 'n crafts
-When I'm feeling *really* adventerous, I'll try my hand at some watercolour or maybe a crochet project or two. Plus, they make nice presents :) I don't have any nice pictures to show you but you'll just have to trust me that they're at least half-presentable.
+See my [Rate Your Music](https://rateyourmusic.com/~yuvimon) account for more information about my tastes and album & track ratings.
+
+### Weightlifting
+Weightlifting is something that I've always been enthralled by, but not something I've always had the ability to do. I remember reading Arnold: The Education of a Bodybuilder cover to cover *twice* as a child, but never going anywhere with it. (I was 8- sue me). As time has gone on, however, I truly have become a weightlifter in every sense of the word. There's almost nothing as satisfying as picking something *reallllly* heavy up, then putting it back down. Don't believe me? Ask me and I'll show you- Let's go work out together!
+
+Deadlift: 245lb
+Benchpress: 155lb
+Squat: 155lb
+
+Total: 555lbs
+
+Progress to 1000lb club: 55.5%
+
+### Sports
+Someone remind me to write about Tennis and Shooting in here at some point
+
+### Gaming
+Last but *definitely* not least, this is the hobby that has captured so much of my teenage years, gaming. I'm not going to wax poetic about this, because it's 2am, but I just want to say: Gaming rocks xd
+
+Here's a random smattering of games i've enjoyed over the years:
+
+* **Counter Strike: Global Offensive:** ~2500 hours
+* **Overwatch** ~200 hours
+* **The Witcher 3: Wild Hunt:** ~170 hours
+* **Borderlands 2** ~60 hours
+* **Hotline Miami** ~15 hours
+
+(Not exhaustive in the least)
