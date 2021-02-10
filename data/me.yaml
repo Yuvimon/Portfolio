@@ -1,14 +1,19 @@
-name: Jacky Zhao
-description: Welcome to my little corner of the internet! I'm Jacky, a curious software developer interested in infrastructure, ml, cognitive systems, and ethical tech — anything that can make technology work better for everyone.
-page_title: jacky zhao | a curious software developer interested in infrastructure, ml, cognitive systems, and ethical tech
-github: https://github.com/jackyzha0/
-api_url: https://api.github.com/users/jackyzha0
+name: Yuvraj Walia
+description: Hi, I'm Yuvraj, welcome to my personal website. Home to all things me.
+
+
+page_title: Home | Yuvraj Walia
+github: https://github.com/Yuvimon/
+api_url: https://api.github.com/users/Yuvimon
+
 descriptors:
-  - Jacky.
+  - Yuvraj.
   - a student.
-  - a software dev.
-  - an avid reader.
+  - a programmer.
+  - a 'pro gamer'
+  - a weightlifter.
+  - an audiophile.
 resume:
-  res/2020-jackyzhao-resume.pdf
+  res/YuvrajWalia_LatexResume_5_0.pdf
 email:
-  j.zhao2k19@gmail.com
+  waliayuvraj@gmail.com

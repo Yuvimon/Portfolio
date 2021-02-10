@@ -1,85 +1,75 @@
-- name: MLH Fellowship
-  expand: false
-  title: Fellows Class 0
-  img: mlh.png
-  year: 2020
-  things:
-    Selected as one of 144 fellows to be part of the inaugural class of the MLH Fellowship program from a pool of 20,000 applicants. Worked on BentoML, an open-source framework for high-performance ML model serving. Reduced docker image size by 60% to enable lighter deployments by building Debian-slim based Docker images for model server. Created Helm chart allowing users to deploy the model storage component to a Kubernetes cluster with a single command rather than needing to follow an entire guide.
+- name: EDify Talks
+  expand: true
+  title: Full Stack Engineer
+  img: edify.png
+  year: Cupertino, California, 2021
+  thing1: • Led a team of developers in developing the website for the 501c(3) international nonprofit EDify Talks, using the MERN stack for web development and hosting on AWS, achieving a monthly average of ~4500 pageviews.   
+  thing2: • Engineered an efficient sign-up flow, resulting in a unique pageview to sign-up conversion ratio of 17%
   techlist:
-    - Pytest
-    - Docker
-    - AWS Lambda
-    - Helm
-    - Kubernetes
-  lang_ratios:
-    - name: Python
-      percent: 80
-    - name: Dockerfile
-      percent: 20
-
-- name: nwPlus
-  expand: false
-  title: HackCamp Logistics Director
-  img: nwplus.png
-  year: 2020
-  things:
-    Lead a team of 4 in hosting HackCamp, a beginner-focused virtual hackathon, attracting over 900+ registrations, 500+ attendees, 3.2k+ livestream viewers, and $1200 in donations to charities. Co-lead the creation of a publicly available self-learning resources guidebook for tech beginners. Co-lead the development of our hackathon portal which aims to be a central information hub for hackers to do judging, relay announcements, and view the schedule Handled 200k+ interactions on the site during HackCamp.
-  techlist:
-    - Gitbook
-    - Firebase
+    - MongoDB
+    - Express
     - React
-    - Github Actions
+    - Node.js
+    - AWS
   lang_ratios:
     - name: JavaScript
       percent: 100
 
-- name: Hootsuite
-  expand: false
-  title: SWE Intern
-  img: hootsuite.png
-  year: 2020
-  things:
-    Reduced mean time-to-acknowledge for alerts from hours to minutes by adding alerting and monitoring for key SLOs for several tier one services. Added monitoring dashboard and alarms for website cache with AWS CloudWatch. Increased accessibility on paid signup flow and added various end-to-end frontend tests. Implemented various A/B tests. Updated internal metrics collection tools to work with NGINX.
-  techlist:
-    - Twig
-    - React
-    - Jest
-    - Cypress
-    - Terraform
-    - Ansible
-    - Grafana
-    - Prometheus
-  lang_ratios:
-    - name: JavaScript
-      percent: 60
-    - name: HCL
-      percent: 25
-    - name: PHP
-      percent: 7.5
-    - name: Scala
-      percent: 7.5
 
-- name: Hootsuite
+- name: Felicity
   expand: false
-  title: SWE Intern
-  img: hootsuite.png
-  year: 2019
-  things:
-    Implemented a proof of concept service mesh to break Scala monolith service into microservices. Proposal was added to the company technical roadmap for 2023. Implemented an internal endpoint to assist with data compliance requests. Defined and implemented Service Level Objectives (SLOs) for 3 of Hootsuite's
-    core internal services.
+  title: App Dev Engineer
+  img: felicity.png
+  year: Hamilton, Canada, 2021
+  thing1: • Created a robust data collection and analytics pipeline for the productivity app Felicity using Dart for development and Firebase for storage, allowing for an empirically better understanding of the user base.
+  thing2: • Heavily redesigned and refactored the analytics page in Flutter allowing users to better monitor their own app usage resulting in 50% more traffic from alpha users than in previous iterations
   techlist:
-    - SQL
-    - Envoy
-    - Istio
-    - Kubernetes
-    - Docker
-    - Sumologic
+    - Flutter
+    - Dart
+    - Firebase
+    - Android Studio
   lang_ratios:
-    - name: Go
-      percent: 42
-    - name: Scala
-      percent: 33
-    - name: Dockerfile
-      percent: 20
-    - name: Bash
-      percent: 6
+    - name: Dart
+      percent: 100
+
+- name: Fundthrough
+  expand: false
+  title: QA Engineer
+  img: fundthrough.png
+  year: Waterloo, Canada, 2021
+  thing1: • Wrote automation tests with Selenium which caught an error with large attachment sizes not being recognized that would have halted product flow for ~8% of users.
+  thing2: • Aided in a company-wide re-brand, doing intensive QA and testing on hundreds of webpages, cataloguing dozens of bugs and errors across multiple platforms.
+  techlist:
+    - PostgreSQL
+    - PGAdmin
+    - Testlink
+    - Ruby
+    - Selenium
+    - AWS
+  lang_ratios:
+      - name: Ruby
+        percent: 100
+
+- name: Waterloo Engineering Endowment Fund
+  expand: false
+  title: Director of Operations
+  img: waterloo.png
+  year: Waterloo, Canada, 2019 - 2022
+  thing1: • In charge of the management and distribution of a principal amount of ~20,000,000$, as well as organizing a team of ~60 representatives under my jurisdiction. 
+  thing2: • Managed the allocation of ~$480,000 in funds to the engineering department and student engineering design team endeavours, helping fund the future of innovation at uWaterloo eng. First as a representative, now as director.
+  lang_ratios:
+      - name: Non-Technical
+        percent: 100
+- name: Bombardier
+  expand: false
+  title: Data analyst, Contractor
+  img: bombardier.png
+  year: Toronto, Canada, 2019
+  thing1: • Investigated the ION Light Rail Transit system, collecting thousands of unique rider data-sets specifically from lunch-time hours for future use by Bombardier and as an A/B Test to their data collection systems. 
+  thing2: • Performed data and process analysis using Excel and VBA, optimizing train stoppages and altering train blueprints, resulting in a theoretical decrease in ride-length of 11 minutes during the lunch rush hour.
+  techlist:
+    - VBA
+    - Excel
+  lang_ratios:
+      - name: VBA
+        percent: 100

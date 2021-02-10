@@ -1,6 +1,7 @@
 <div id="main-landing">
-  <h1 class="mobile-hide">Hi!</h1>
-  <h1 class="mobile-only">Hi! I’m</h1>
+  {{ $gh := getJSON $.Site.Data.me.api_url }}
+  <h1 class="mobile-hide">Hey 👋</h1>
+  <h1 class="mobile-only">Hey👋 I’m</h1>
   <div class="rotating-text">
     <h1 class="mobile-hide">I’m </h1>
     <h1>
@@ -14,4 +15,10 @@
     <li><a href="{{.link}}">/{{.link_name}}</a></li>
     {{- end -}}
   </ul>
+  <div id="bio-landing">
+    {{$jsonContent := (dict "name" $gh.name "currently" $gh.company "location" $gh.location "bio" $gh.bio) | jsonify (dict "prefix" " " "indent" " ") }}
+    <div class="lt-shadow highlight-container">
+      {{highlight $jsonContent "json" ""}}
+    </div>
+  </div>
 </div>

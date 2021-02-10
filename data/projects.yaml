@@ -5,7 +5,7 @@
     - link_name: github
       link: https://github.com/yuvimon/StockOverflow
   desc: 
-    Developed a stock prediction algorithm in Python that applies sentiment analysis to article headlines using Pandas. Outperformed the S&P500 by an average margin of 13\% using data sets accessed through MongoDB  
+    Developed a stock prediction algorithm in Python that applies sentiment analysis to article headlines using Pandas. Outperformed the S&P500 by an average margin of 13% using data sets accessed through MongoDB  
   techlist:
     - Python
     - Pandas
@@ -22,7 +22,7 @@
   short_desc: Parser which converts images into .docx, .pdf files
   links:
     - link_name: github
-      link: https://github.com/yuvimon/HITSCAN
+      link: https://github.com/triglemon/HITSCAN
   desc:
     Implemented an iterative algorithm which analyzes 360 angles of an image using Google's Tesseract API, reducing mistranslations, allowing the program to run at 97% effectiveness as measured by words correct/total words  
   techlist:
@@ -45,7 +45,9 @@
   techlist:
     - Hugo
     - lite.css
-    - Github Actions
+    - Javascript
+    - HTML
+    - SCSS
   lang_ratios:
     - name: JavaScript
       percent: 35

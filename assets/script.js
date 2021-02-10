@@ -126,7 +126,7 @@ class Visual {
   }
 }
 
-new Visual(150, 150, 8)
+new Visual(200, 150, 7)
 
 // Rotating Text
 const words = document.querySelectorAll(".word")

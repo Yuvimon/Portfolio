@@ -1,20 +1,20 @@
 intro:
 - link_name: about
   link: '#about'
-- link_name: prev
+- link_name: experience
   link: '#experience'
 - link_name: projects
   link: '#projects'
 - link_name: blog
-  link: https://blog.jzhao.xyz
+  link: https://blog.yuvraj.co
 footer:
 - link_name: source
-  link: https://github.com/jackyzha0/jackyzha0.github.io
+  link: https://github.com/yuvimon/Portfolio
 - link_name: blog
-  link: https://blog.jzhao.xyz
-- link_name: not-work
-  link: /notwork
+  link: https://blog.yuvraj.co
+- link_name: for-the-homies
+  link: /personal
 - link_name: twitter
-  link: https://twitter.com/_jzhao
+  link: https://twitter.com/OfficialYuvrajW
 - link_name: email
-  link: mailto:j.zhao2k19@gmail.com
+  link: mailto:waliayuvraj@gmail.com
